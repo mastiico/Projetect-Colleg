@@ -1,8 +1,5 @@
 # Projeto Integrador II - Design de Interface
 
-## Descrição do Projeto
-O objetivo do projeto foi planejar e desenhar a interface de um aplicativo, além de modelar o sistema utilizando UML para descrever as principais funcionalidades e interações entre os atores e o sistema.
-
 ## Objetivo
 O objetivo do projeto foi planejar e desenhar a interface de um aplicativo que seja intuitivo, fácil de usar e acessível, alinhando-se com as melhores práticas de design de experiência do usuário (UX).
 
