@@ -4,9 +4,9 @@
 O objetivo do projeto foi planejar e desenhar a interface de um aplicativo que seja intuitivo, fácil de usar e acessível, alinhando-se com as melhores práticas de design de experiência do usuário (UX).
 
 ## Ferramenta Utilizada
-- **Miro:** Utilizamos o Miro, para esboçar e criar o layout das telas do aplicativo. Essa ferramenta nos permitiu trabalhar de forma colaborativa, visualizando e ajustando o design em tempo real. (miro.com)
+- **Miro:** Utilizamos o Miro, para esboçar e criar o layout das telas do aplicativo. Essa ferramenta nos permitiu trabalhar de forma colaborativa, visualizando e ajustando o design em tempo real. [miro](https://miro.com/)
 
-- **Lucidchart:** Para criação do diagrama UML (lucidchart.com).
+- **Lucidchart:** Para criação do diagrama UML [lucidchart](https://lucid.app/).
 
 
 ## Telas Criadas
