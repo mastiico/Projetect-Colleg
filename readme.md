@@ -35,18 +35,18 @@ As telas e o fluxo de navegação foram prototipados no Miro, permitindo uma vis
 
 ## Imagens do Projeto
 ### Tela de Login
-![Tela de Login](./assets/tela-login.png)
+![Tela de Login](./assets/Tela-login.png)
 
 ### Tela de Cadastro
 ![Tela de Cadastro](./assets/Cadastro-alunos.png)
 
 ### Telas inicial de cada perfil.
 #### Aluno
-![Tela de Upload](./assets/tela-inicial-aluno.png)
+![Tela de Upload](./assets/Tela-inicial-aluno.png)
 #### Fornecedor
-![Tela de Upload](./assets/tela-inicial-fornecedor.png)
+![Tela de Upload](./assets/Tela-inicial-fornecedor.png)
 #### Professor
-![Tela de Upload](./assets/tela-inicial-professor.png)
+![Tela de Upload](./assets/Tela-inicial-professor.png)
 ### Conclusão
 Este projeto de design no Miro proporcionou uma base sólida para a futura implementação do aplicativo, garantindo que as necessidades dos usuários sejam atendidas com uma interface limpa e funcional.
 
