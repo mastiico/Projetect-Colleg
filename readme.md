@@ -63,7 +63,7 @@ O diagrama UML a seguir foi criado para representar as interações e casos de u
 
 > **Nota:** O diagrama UML acima foi criado para ilustrar as principais funcionalidades e erros que podem ocorrer durante as interações do usuário com o sistema.
 
-> **Observação:** A documentação do diagrama UML completa está no [pdf](./assets/Projeto-integrador.pdf)
+> **Observação:** A documentação do diagrama UML completa está no [pdf](./assets/Projeto-Integrador.pdf)
 
 ## Equipe
 - **Everaldo Rosas:** [Perfil GitHub](https://github.com/EveraldoRosas)
