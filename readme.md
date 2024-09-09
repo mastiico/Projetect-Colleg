@@ -66,7 +66,7 @@ O diagrama UML a seguir foi criado para representar as interações e casos de u
 - **Everaldo Rosas:** [Perfil GitHub](https://github.com/EveraldoRosas)
 - **Maira Deicke:** [Perfil GitHub](https://github.com/MaiaraDeicke)
 - **Lucas Camargo:** [Perfil GitHub](https://github.com/EveraldoRosas)
-
+- **Marcio Filho:** [Perfil GitHub](https://github.com/mastiico/)
 
 ## Agradecimentos
 Gostaríamos de agradecer aos nossos professores e colegas que nos deram suporte durante o desenvolvimento deste projeto.
